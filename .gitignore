@@ -7,6 +7,7 @@ build/
 # External native build folder generated in Android Studio 2.2 and later
 .externalNativeBuild
 
+
 # Gradle files
 .gradle/
 
@@ -38,3 +39,4 @@ google-services.json
 
 # Version control
 vcs.xml
+
